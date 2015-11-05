@@ -1,0 +1,84 @@
+.header {
+	background-color: red;
+	color: white;
+	padding: 15px;
+}
+
+h1 {
+	font-size: 200px;
+}
+
+p {
+	font-size: 21px;
+	margin-top: 15px;
+	font-weight: normal;
+}
+
+span {
+	color: red;
+	text-transform: uppercase;
+}
+
+.breaking {
+	text-align: center;
+	font-size: 37px;
+	margin-top: 20px;
+	padding-bottom: 30px;
+	border-bottom: solid gray;
+}
+
+.categories {
+	margin-top: 30px;
+}
+
+h3 {
+	border: solid gray;
+	font-size: 15px;
+	margin-top: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 2px;
+	width: 100%;
+}
+
+h4 {
+	font-size: 18px;
+	text-align: center;
+}
+
+h5 {
+	font-weight: bold;
+	font-size: 27px;
+	margin-top: 5px;
+}
+
+.daily {
+	margin-top: 20px;
+	padding-left: 20px;
+}
+
+.photo {
+	padding: 200px;
+	border: solid black;
+	margin-top: 10px;
+}
+
+.photo-2 {
+	padding: 100px;
+	border: solid black;
+	margin-top: 10px;
+}
+
+h6 {
+	border: solid black;
+	padding-bottom: 300px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+.ad-box {
+	border: solid black;
+	padding-bottom: 570px;
+	margin-top: 20px;
+	text-align: center;
+}
