@@ -49,6 +49,13 @@ h4 {
 	font-family: 'Open Sans', sans-serif;
 }
 
+a {
+	font-weight: bold;
+	font-size: 27px;
+	margin-top: 5px;
+	font-family: "Lora", serif;
+	font-weight: bold;
+}
 h5 {
 	font-weight: bold;
 	font-size: 27px;
